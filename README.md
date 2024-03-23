@@ -55,7 +55,7 @@ This project serves as a foundation for integrating digital twin technology into
 
 1. Clone the repository:
    ```
-   git clone
+   git clone https://github.com/L1ZLe/Digital-Twin-in-games.git
    ```
 2. Navigate to the project directory and run the Python script:
    ```
